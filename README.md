@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby version 5.1.2
 
-Things you may want to cover:
+Ruby rails 5.2
 
-* Ruby version
+Ce projet a été réalisé par Edouard Plantevin et Léa Bougaut
 
-* System dependencies
+Les consignes :
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2.1. MOOCademy
+Tu dois créer une plateforme d'apprentissage en ligne. Il y a plein de cours. Chaque cours a un titre et une description. Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body
